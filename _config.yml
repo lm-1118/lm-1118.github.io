@@ -101,8 +101,8 @@ avatar: '/assets/img/image.png'
 # favicon 图标
 favicon: '/assets/img/favicons/favicon.ico?v=2'
 apple_touch_icon: '/assets/img/favicons/apple-touch-icon.png'
-favicon_32x32: '/assets/img/favicons/favicon-32x32.png'
-favicon_16x16: '/assets/img/favicons/favicon-16x16.png'
+favicon_32x32: '/assets/img/favicons/favicon.ico'
+favicon_16x16: '/assets/img/favicons/favicon.ico'
 
 # 社交预览图
 social_preview_image: '/assets/img/image.png'
