@@ -23,10 +23,10 @@ description: >-                   # 网站描述
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://lmmmmmmmmmmmmmmm.github.io'
+url: 'https://lm-1118.github.io'
 
 github:
-  username: lmmmmmmmmmmmmmmm     # 改为您的 GitHub 用户名
+  username: lm-1118    # 改为您的 GitHub 用户名
 
 twitter:
   username: '' # change to your Twitter username
@@ -38,7 +38,7 @@ social:
   email: 2389934506@qq.com      # 改为您的邮箱
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/lmmmmmmmmmmmmmmm  # 改为您的 GitHub 主页
+    - https://github.com/lm-1118  # 改为您的 GitHub 主页
     - https://twitter.com/# change to your Twitter homepage
     - https://github.com/ # change to your GitHub homepage
     # Uncomment below to add more social links
@@ -99,7 +99,7 @@ cdn:
 avatar: '/assets/img/image.png'
 
 # favicon 图标
-favicon: '/assets/img/favicons/favicon.ico'
+favicon: '/assets/img/favicons/favicon.ico?v=2'
 apple_touch_icon: '/assets/img/favicons/apple-touch-icon.png'
 favicon_32x32: '/assets/img/favicons/favicon-32x32.png'
 favicon_16x16: '/assets/img/favicons/favicon-16x16.png'
