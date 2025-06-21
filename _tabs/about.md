@@ -4,5 +4,25 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 个人经历
+
+## 学习历程
+我是一名二本院校的软件工程专业学生，从大二开始正式踏入编程之路。最初通过黑马程序员学习，完成了"苍穹外卖"项目。大二暑假接触到雯哥的学习路线，随后加入马丁的知识星球，开始实战短链接项目。
+
+## 求职经历
+大三开始寻找实习机会，从9月到11月期间投递了700+份简历。经过不懈努力，12月找到了第一份工作——虽然是一家不到10人的小公司且没有基本工资，但我在短短半个月内独立完成了一个价值6000元的Python脚本，获得了900元提成。后来公司提出转正条件：2100元底薪+25%提成，但我选择了拒绝。
+
+春节期间休整两个月后，回到学校开始系统补充八股文知识、优化项目经验和包装实习经历。特别感谢小凡哥提供的宝贵实习经验指导。从3月份开始新一轮求职，到4月20日成功入职墨菲安全，期间共投递2200+份简历，参加30+场面试，收获7个offer。
+
+## 开源贡献
+积极参与开源社区，为OpenManus和AdventureX项目贡献代码。
+
+## 个人项目
+作为MurphySec安全平台的核心开发者（GitHub Star 1.7k+），主要负责企业级代码安全检测产品的开发与优化。结合IntelliJ IDEA插件开发、安全扫描系统后端设计等技术，利用Java与Go构建完整的漏洞检测与修复闭环体系。
+
+## 技术栈
+- **语言**：Java、Go、Python
+- **框架**：Spring Boot、Spring Cloud Alibaba
+- **中间件**：Redis、RocketMQ、MySQL
+- **工具**：IntelliJ IDEA、Docker
+- **其他**：熟悉并发编程、CAS、AQS、线程池、ThreadLocal等实现原理
